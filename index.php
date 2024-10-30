@@ -22,10 +22,10 @@
         <p>Caso queira informarções de ruas e baixos basta digitar seu cep logo abaixo e clickar em consultar</p>
     </header>
     <main>
-        <section id="cep-section">
-            <input type="text" id="cep-input" placeholder="Digite seu CEP" required>
-            <button id="consultar-cep">Consultar</button>
-            <div id="resultado-cep"></div>
+        <section id="cepSection">
+            <input type="text" id="cepInput" placeholder="Digite seu CEP" required>
+            <button id="consultarCep">Consultar</button>
+            <div id="resultadoCep"></div>
         </section>
     </main>
     <script src="./script.js"></script>

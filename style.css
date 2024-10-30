@@ -65,13 +65,13 @@ header p{
     margin-top: 0.5rem;
 }
 
-#cep-section {
+#cepSection {
     max-width: 400px;
     margin: auto;
     text-align: center;
 }
 
-#cep-input{
+#cepInput{
     width: 10rem;
     height: 2rem;
     border: 1px solid #2962C2;
@@ -81,7 +81,7 @@ header p{
 }
 
 
-#resultado-cep {
+#resultadoCep {
     width: 100%;
     height: auto;
     margin-top: 20px;
@@ -111,7 +111,7 @@ header p{
     margin-top: 0.5rem;
 }
 
-#consultar-cep{
+#consultarCep{
     width: 7rem;
     height: 2rem;
     border: 0;
@@ -123,7 +123,7 @@ header p{
     margin: 0;
 }
 
-#consultar-cep:hover{
+#consultarCep:hover{
     background-color: #2962C2;
     color: white;
 }
